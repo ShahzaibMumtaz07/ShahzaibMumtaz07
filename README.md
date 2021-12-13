@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **shahzaib.mumtaz.20195@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
