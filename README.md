@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibmumtaz07&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaibmumtaz07" /> </p>
 
 - 📫 How to reach me **shahzaib.mumtaz.20195@gmail.com**
+- LinkedIn: [Shahzaib](https://www.linkedin.com/in/shahzaib-mumtaz/)
 
 <p align="left">
 </p>
